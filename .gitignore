@@ -1,0 +1,16 @@
+
+*.user
+
+*.filters
+
+*.log
+
+*.tlog
+
+*.obj
+
+*.lastbuildstate
+
+*.pdb
+
+*.lib
